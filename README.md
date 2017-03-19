@@ -1,5 +1,6 @@
 # Effective-Thinking-Through-Mathematics
 
+https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0
 
 Effective Thinking Through Mathematics
 Learn tools of effective thinking through puzzles and mathematics in this fun and fascinating course.
